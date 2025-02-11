@@ -1,31 +1,27 @@
 # Installation
 ## Requirements
-- git
-- stow
-- xsel
+- `git`
+- `stow`
+- `xsel`
 
-## Clone this repo
+## Installation
+Clone this repository
 ```
-git clone https://github.com/fy0d-0r/dotfiles.git
+git clone https://github.com/thihahtoozin/dotfiles.git
 ```
 
-## Clone Tmux Package Manager (tpm)
+Clone Tmux Package Manager (`tpm`)
 ```
 cd dotfiles/tmux/.config/tmux/plugins
 git clone https://github.com/tmux-plugins/tpm.git
 ```
 
-## Uninstalling
-
-Run the `uninstall.sh` script
+To uninstall run the `uninstall.sh` script
 ```
 cd ~/dotfiles/
 ./uninstall.sh
 ```
-
 You can now delete the repository
 
-
-
-### References
+## References
 `https://thevaluable.dev/zsh-install-configure-mouseless/`
