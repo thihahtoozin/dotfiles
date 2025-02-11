@@ -1,0 +1,4 @@
+tmux/.config/tmux/plugins/tmux-sensible
+tmux/.config/tmux/plugins/tmux-yank
+tmux/.config/tmux/plugins/tpm
+tmux/.config/tmux/plugins/vim-tmux-navigator
